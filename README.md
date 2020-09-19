@@ -32,6 +32,16 @@ cd ..
 ```
 react-native run-ios
 ```
+### Test
+#### login / logout
+![login](https://user-images.githubusercontent.com/56618964/93669412-f216aa00-face-11ea-8db1-3e1a3b2e77a8.gif)
+![logout](https://user-images.githubusercontent.com/56618964/93669416-f5119a80-face-11ea-9ce7-8da2d540cb0e.gif)
+</br></br>
+##### chat / drawer
+![chat](https://user-images.githubusercontent.com/56618964/93669419-f8a52180-face-11ea-98d2-589f0a6f6006.gif)
+![drawer](https://user-images.githubusercontent.com/56618964/93669418-f773f480-face-11ea-8c44-1e3fefa42ae8.gif)
+
+
 
 
 ## Todo
