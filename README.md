@@ -36,3 +36,4 @@ react-native run-ios
 
 ## Todo
 1. link server
+2. test other device
